@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @kiba953
-- 👀 I’m interested in bug-bounties,gaming and reading manhwas
-- 🌱 I’m currently learning cybersecurity and front-end development
-- 💞️ I’m looking for people who would like to learn or mentor me on the topic of cybersecurity
-- 📫 You can reach me with my discord tag K!ba#7809
-
-<!---
-kiba953/kiba953 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hey  </h1>
+<p>I'm Kiba,a student at IIT bhilai pursuing a degree in Electrical Engineering .I love reading manhwas and watching anime!</p>
+<p>I have learnt a lot of stuff from FreeCodeCamp and would definitely recommend you as well.<br>
+  These days, i am trying to learn back-end development and cybersecurity.<br>
+</p>
+<a href="https://discord.com/users/769598708903051304">
+  <img align="left" alt="My Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
