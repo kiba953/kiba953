@@ -12,3 +12,13 @@
 </br>
   
 ### Languages & Technologies I use or have experience with
+
+<div><!-- make img inline -->
+<!-- Languages -->
+<img src="icons/python.svg" width="30px">
+<img src="icons/javascript.svg" width="30px">
+<img src="icons/html.svg" width="30px">
+<img src="icons/css.svg" width="30px">
+<img src="icons/discordpy.svg" width="30px">
+<img src="icons/linux.svg" width="30px" height="30px">
+</div>
