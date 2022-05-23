@@ -1,6 +1,6 @@
 <h1>Heya 👋</h1>
 <p>I'm Kiba,a student at IIT Bhilai pursuing a degree in Electrical Engineering. <br>I love reading manhwas and watching anime!</p>
-<p>I have learnt a lot of stuff from FreeCodeCamp and would definitely recommend you as well.<br>
+<p>I have learnt a lot of stuff from FreeCodeCamp and would definitely recommend you the site as well.<br>
   These days, i am trying to learn back-end development and cybersecurity.<br>
 </p>
 <a href="https://discord.com/users/769598708903051304">
