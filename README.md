@@ -4,7 +4,7 @@
   These days, i am trying to learn back-end development and cybersecurity.<br>
 </p>
 <a href="https://discord.com/users/769598708903051304">
-  <img align="left" alt="My Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="My Discord" width="30px" src="/icons/discord.svg" />
 <a href="https://www.freecodecamp.org/fcc09a0f031-81d9-47ad-8fd0-9dbe1b3167d9">
   <img align="left" alt="My freecodecamp" width="40px" src="/icons/free-code-camp-logo.svg" />
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=arnavchauhan3175@gmail.com&tf=1">
