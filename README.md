@@ -1,7 +1,7 @@
 <h1>Heya <img src="icons/pikachu.png" width="90px"></h1>
 <p>I'm Arnav aka Kiba ,a student at IIT Bhilai pursuing a degree in Electrical Engineering. <br>I love coding, reading manhwas and watching anime!</p>
 <p>I have learnt a lot of stuff from FreeCodeCamp and would definitely recommend you the site as well.<br>
-  I am a hardworker who would complete any assigned task.<br>
+  Always interested in learning and trying out new things.<br>
 </p>
 <a href="https://discord.com/users/769598708903051304">
   <img align="left" alt="My Discord" width="30px" src="/icons/discord.svg" />
