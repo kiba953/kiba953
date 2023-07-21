@@ -22,5 +22,6 @@
 <img src="icons/discordpy.svg" width="30px">
 <img src="icons/linux.svg" width="30px" height="30px">
 <img src="icons/react.png" width="30px">
-<img src="icons/mongo.png" width="30px" height="30px">
+<img src="icons/node.svg" width="30px">
+<img src="icons/mongo.svg" width="30px" height="30px">
 </div>
